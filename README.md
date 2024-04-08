@@ -107,4 +107,4 @@ https://github.com/abi/screenshot-to-code/assets/23818/3fec0f77-44e8-4fb3-a769-a
 
 🆕 [Try it here (paid)](https://screenshottocode.com). Or see [Getting Started](#-getting-started) for local install instructions to use with your own API keys.
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/abiraja)
+[!["Buy Me A Coffee"](https://deepimage.polo-e.net/applets/20240408/080312_1712563391193.png)](https://www.buymeacoffee.com/masterh)
